@@ -1,0 +1,63 @@
+
+
+
+
+h1{
+    position: relative ;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Bebas Neue', cursive;
+
+    color:rgb(97, 123, 255)
+    
+    
+}
+
+body{
+    background-color: antiquewhite;
+}
+
+    h2{
+        font-size: 25px;
+        font-family: 'Times New Roman', Times, serif;
+        color: rgb(97, 123, 255);
+    }
+
+
+.ocean{ 
+
+    width: 200px;
+    height: 200px;
+}
+
+.temple{
+    width: 200px;
+    height: 200px;
+
+}
+
+.kpmg{
+    width: 300px;
+    height: 200px;
+}
+.ytvid{
+    position: block;
+    margin-right: 300px;
+    float:right;
+    width: 300px;
+    height: 225px;
+    display:inline;
+    
+}
+
+.clear {
+    clear:both;
+}
+
+.container {
+    width: 100%;
+}
+
+body {
+    font-size: 1.5em;
+}
